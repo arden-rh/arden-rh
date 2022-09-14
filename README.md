@@ -7,7 +7,7 @@ My name is Arden and I'm currently studying Front-end developement at Medieinsti
 
 #### 5 short: 
 
-- 📚 _Latest book read?_ <br>
+- 📚 _Latest book(s) read?_ <br>
 Gideon the Ninth and Poirot's Early Cases
 
 - ☕️ _Coffee or tea?_ <br>
