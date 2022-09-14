@@ -7,15 +7,20 @@ My name is Arden and I'm currently studying Front-end developement at Medieinsti
 
 #### 5 short: 
 
-📚 Latest book read? Gideon the Ninth and Poirot's Early Cases
+- 📚 _Latest book read?_ <br>
+Gideon the Ninth and Poirot's Early Cases
 
-☕️ Coffee or tea? Coffee
+- ☕️ _Coffee or tea?_ <br>
+Coffee
 
-📺 What is the last TV show that you binge-watched? The Sandman
+- 📺 _What is the last TV show that you binge-watched?_ <br>
+The Sandman
 
-🎮 What was your favorite game to play as a child? The Sims 
+- 🎮 _What was your favorite game to play as a child?_ <br>
+The Sims 
 
-🍍 Does pineapple belong on pizza? Yes
+- 🍍 _Does pineapple belong on pizza?_ <br>
+Yes
 
 
 <!--
