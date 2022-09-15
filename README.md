@@ -5,7 +5,7 @@ My name is Arden and I'm currently studying Front-end developement at Medieinsti
 - 💁🏼‍♂️ Pronouns: He/him 
 - 🌱 I’m currently learning: HTML/CSS
 
-#### 5 short: 
+#### 5 quick qs: 
 
 - 📚 _Latest book(s) read?_ <br>
 Gideon the Ninth and Poirot's Early Cases
