@@ -4,17 +4,18 @@ My name is Arden and I'm currently studying Front-end developement at Medieinsti
 
 - 💁🏼‍♂️ Pronouns: He/him 
 - 🌱 I’m currently learning: HTML/CSS
+- 🔭 I’m currently working on: A portfolio site
 
 #### 5 quick qs: 
 
 - 📚 _Latest book(s) read?_ <br>
-Gideon the Ninth and Poirot's Early Cases
+Casino Royale and The Mystery of the Blue Train
 
 - ☕️ _Coffee or tea?_ <br>
 Coffee
 
 - 📺 _What is the last TV show that you binge-watched?_ <br>
-The Sandman
+Andor
 
 - 🎮 _What was your favorite game to play as a child?_ <br>
 The Sims 
@@ -34,6 +35,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
