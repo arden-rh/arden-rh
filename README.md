@@ -11,7 +11,7 @@ My name is Arden and I'm currently studying Front-end developement at Medieinsti
 #### 5 quick qs: 
 
 - 📚 _Latest book(s) read?_ <br>
-Casino Royale and The Mystery of the Blue Train
+Casino Royale and Ordeal by Innocence
 
 - ☕️ _Coffee or tea?_ <br>
 Coffee
