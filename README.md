@@ -3,7 +3,7 @@
 My name is Arden and I'm currently studying Front-end developement at Medieinstitutet, Malmö SWE. 
 
 - 💁🏼‍♂️ Pronouns: He/him 
-- 🌱 I’m currently learning: HTML/CSS
+- 🌱 I’m currently learning: Javascript
 - 🔭 I’m currently working on: A portfolio site
 
 - 📫 How to reach me: [Twitter](https://twitter.com/ardentmind "Twitter profile @ardentmind")
