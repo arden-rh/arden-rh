@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 My name is Arden and I'm currently studying Front-end developement at Medieinstitutet, Malmö SWE. 
 
