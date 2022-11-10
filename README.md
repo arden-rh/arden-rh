@@ -19,7 +19,7 @@ Coffee
 - 📺 _What is the last TV show that you binge-watched?_ <br>
 Andor
 
-- 🎵 _Listening to at the moment?_
+- 🎵 _Listening to at the moment?_ <br>
 A mix of Neue Deutsche Welle, Post-punk and New Wave
 
 - 🍍 _Does pineapple belong on pizza?_ <br>
