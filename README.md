@@ -11,7 +11,7 @@ My name is Arden and I'm currently studying Front-end developement at Medieinsti
 #### 5 quick qs: 
 
 - 📚 _Latest book(s) read?_ <br>
-Harrow the Ninth and Death in the Clouds
+Harrow the Ninth and The A.B.C. Murders
 
 - ☕️ _Coffee or tea?_ <br>
 Coffee
