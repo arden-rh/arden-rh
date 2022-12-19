@@ -3,15 +3,15 @@
 My name is Arden and I'm currently studying Front-end developement at Medieinstitutet, Malmö SWE. 
 
 - 💁🏼‍♂️ Pronouns: He/him 
-- 🌱 I’m currently learning: Javascript
-- 🔭 I’m currently working on: A portfolio site
+- 🌱 I’m currently learning: TypeScript
+- 🔭 I’m currently working on: A webshop project together with classmates
 
 - 📫 How to reach me: [Twitter](https://twitter.com/ardentmind "Twitter profile @ardentmind")
 
 #### 5 quick qs: 
 
 - 📚 _Latest book(s) read?_ <br>
-Harrow the Ninth and The A.B.C. Murders
+Nona the Ninth and Death on the Nile
 
 - ☕️ _Coffee or tea?_ <br>
 Coffee
