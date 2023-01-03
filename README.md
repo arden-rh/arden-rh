@@ -5,9 +5,9 @@ My name is Arden and I'm currently studying Front-end developement at Medieinsti
 - 💁🏼‍♂️ Pronouns: He/him 
 - 🌱 I’m currently learning: TypeScript
 - 🔭 I’m currently working on: A webshop project together with classmates 
-- 🖥️ My latest project is: [Bortakväll](https://gentle-dusk-abe4a9.netlify.app/index.html)
+- 🖥️ My latest project is: [Bortakväll](https://gentle-dusk-abe4a9.netlify.app/index.html "Link to Bortakväll: A webshop (school project)")
 
-- 📫 How to reach me: [Twitter](https://twitter.com/ardentmind "Twitter profile @ardentmind")
+- 📫 How to reach me: [Twitter](https://twitter.com/ardentmind "Twitter profile @ardentmind" _blank)
 
 #### 5 quick qs: 
 
