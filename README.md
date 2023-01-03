@@ -4,20 +4,21 @@ My name is Arden and I'm currently studying Front-end developement at Medieinsti
 
 - 💁🏼‍♂️ Pronouns: He/him 
 - 🌱 I’m currently learning: TypeScript
-- 🔭 I’m currently working on: A webshop project together with classmates
+- 🔭 I’m currently working on: A webshop project together with classmates 
+- 🖥️ My latest project is: [Bortakväll](https://gentle-dusk-abe4a9.netlify.app/index.html)
 
 - 📫 How to reach me: [Twitter](https://twitter.com/ardentmind "Twitter profile @ardentmind")
 
 #### 5 quick qs: 
 
 - 📚 _Latest book(s) read?_ <br>
-Nona the Ninth and Death on the Nile
+The Light Fantastic and The Incredible Theft
 
 - ☕️ _Coffee or tea?_ <br>
 Coffee
 
 - 📺 _What is the last TV show that you binge-watched?_ <br>
-Andor
+Jeeves and Wooster
 
 - 🎵 _Listening to at the moment?_ <br>
 A mix of Neue Deutsche Welle, Post-punk and New Wave
