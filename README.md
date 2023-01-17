@@ -3,16 +3,16 @@
 My name is Arden and I'm currently studying Front-end developement at Medieinstitutet, Malmö SWE. 
 
 - 💁🏼‍♂️ Pronouns: He/him 
-- 🌱 I’m currently learning: TypeScript
-- 🔭 I’m currently working on: A webshop project together with classmates 
-- 🖥️ My latest project is: [Bortakväll](https://gentle-dusk-abe4a9.netlify.app/index.html "Link to Bortakväll: A webshop (school project)")
+- 🌱 I’m currently learning: Node.js
+- 🔭 I’m currently working on: 
+- 🖥️ My latest project is: [Bortakväll](https://gentle-dusk-abe4a9.netlify.app/index.html "Link to Bortakväll: A webshop (school project)") / [GitHub repo](https://github.com/Ludvig-Lundberg/javascript-grupparbete "Link to Bortakväll GitHub repo")
 
 - 📫 How to reach me: [Twitter](https://twitter.com/ardentmind "Twitter profile @ardentmind")
 
 #### 5 quick qs: 
 
 - 📚 _Latest book(s) read?_ <br>
-The Light Fantastic and The Incredible Theft
+The Light Fantastic and Appointment with Death
 
 - ☕️ _Coffee or tea?_ <br>
 Coffee
@@ -21,7 +21,7 @@ Coffee
 Jeeves and Wooster
 
 - 🎵 _Listening to at the moment?_ <br>
-A mix of Neue Deutsche Welle, Post-punk and New Wave
+2010s indie pop
 
 - 🍍 _Does pineapple belong on pizza?_ <br>
 Yes
