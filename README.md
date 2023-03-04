@@ -5,7 +5,9 @@ My name is Arden and I'm currently studying Front-end developement at Medieinsti
 - 💁🏼‍♂️ Pronouns: He/him 
 - 🌱 I’m currently learning: NoSQL
 - 🔭 I’m currently working on: A game with a database in MongoDB
-- 🖥️ My latest project is: [Bortakväll](https://gentle-dusk-abe4a9.netlify.app/index.html "Link to Bortakväll: A webshop (school project)") / [GitHub repo](https://github.com/Ludvig-Lundberg/javascript-grupparbete "Link to Bortakväll GitHub repo")
+- 🖥️ My latest project is: [Portfolio (arden.se)](https://www.arden.se/ "Link to Arden R.H Portfolio") / [GitHub repo](https://github.com/arden-rh/portfolio "Link to Arden's portfolio GitHub repo")
+
+
 
 - 📫 How to reach me: [Twitter](https://twitter.com/ardentmind "Twitter profile @ardentmind")
 
