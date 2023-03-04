@@ -27,11 +27,17 @@ Dragon Age: Absolution
 
 - 🍍 _Does pineapple belong on pizza?_ <br>
 Yes
+<br>
+
+## 📊 GitHub Stats:
+[![Arden's GitHub stats](https://github-readme-stats.vercel.app/api?username=arden-rh&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/arden-rh/github-readme-stats)
+
+
 
 
 <!--
 **arden-rh/arden-rh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arden-rh&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
