@@ -41,8 +41,8 @@ Yes
 <br>
 
 ## 📊 GitHub Stats:
-[![Arden's GitHub stats](https://github-readme-stats.vercel.app/api?username=arden-rh&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github.com/arden-rh/github-readme-stats)  
-[![Arden's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arden-rh&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github.com/arden-rh/github-readme-stats) <br>
+[![Arden's GitHub stats](https://github-readme-stats.vercel.app/api?username=arden-rh&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)](https://github.com/arden-rh/github-readme-stats)  
+[![Arden's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arden-rh&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)](https://github.com/arden-rh/github-readme-stats) <br>
 
 
 
