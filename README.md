@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-My name is Arden and I'm currently studying Front-end developement at Medieinstitutet, Malmö SWE. 
+### My name is Arden and I'm currently studying Front-end developement at Medieinstitutet, Malmö SWE. <br>
 
 - 💁🏼‍♂️ Pronouns: He/him 
-- 🌱 I’m currently learning: NoSQL
-- 🔭 I’m currently working on: A game with a database in MongoDB
-- 🖥️ My latest project is: [Portfolio (arden.se)](https://www.arden.se/ "Link to Arden R.H Portfolio") / [GitHub repo](https://github.com/arden-rh/portfolio "Link to Arden's portfolio GitHub repo")
+- 🌱 I’m currently learning: Testing with vitest
+- 🔭 I’m currently working on: Updating my GitHub with existing projects
+- 🖥️ My latest project is: [Kill the Hoff](https://kill-the-hoff.netlify.app/ "Kill the Hoff website") / [GitHub repo](https://github.com/arden-rh/kill-the-hoff "Kill the Hoff GitHub repo")
 
 
 
@@ -14,7 +14,7 @@ My name is Arden and I'm currently studying Front-end developement at Medieinsti
 #### 5 quick qs: 
 
 - 📚 _Latest book(s) read?_ <br>
-Från Början Till Slutet (Stig Wennerström's biography) && Taken at the Flood
+Saga Volume 10 && Hickory Dickory Dock // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X")
 
 - ☕️ _Coffee or tea?_ <br>
 Coffee
@@ -29,8 +29,24 @@ Dragon Age: Absolution
 Yes
 <br>
 
+## 🧩 Tech Stack
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Typescript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+
+<br>
+
 ## 📊 GitHub Stats:
-[![Arden's GitHub stats](https://github-readme-stats.vercel.app/api?username=arden-rh&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/arden-rh/github-readme-stats)
+[![Arden's GitHub stats](https://github-readme-stats.vercel.app/api?username=arden-rh&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github.com/arden-rh/github-readme-stats)  
+[![Arden's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arden-rh&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github.com/arden-rh/github-readme-stats) <br>
+
+
+
+
 
 
 
@@ -38,6 +54,10 @@ Yes
 <!--
 **arden-rh/arden-rh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arden-rh&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+[![Arden's Github streak](https://github-readme-streak-stats.herokuapp.com/?user=arden-rh&theme=blue-green)](https://github.com/arden-rh/github-readme-streak-stats)
+
+🗄️
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
