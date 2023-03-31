@@ -3,7 +3,7 @@
 ### My name is Arden and I'm currently studying Front-end developement at Medieinstitutet, Malmö SWE. <br>
 
 - 💁🏼‍♂️ Pronouns: He/him 
-- 🌱 I’m currently learning: Testing with vitest
+- 🌱 I’m currently learning: Testing with Cypress
 - 🔭 I’m currently working on: Updating my GitHub with existing projects
 - 🖥️ My latest project is: [Kill the Hoff](https://kill-the-hoff.netlify.app/ "Kill the Hoff website") / [GitHub repo](https://github.com/arden-rh/kill-the-hoff "Kill the Hoff GitHub repo")
 
@@ -14,7 +14,7 @@
 #### 5 quick qs: 
 
 - 📚 _Latest book(s) read?_ <br>
-Saga Volume 10 && Hickory Dickory Dock // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X")
+The Silmarillion && Dead Man's Folly // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X")
 
 - ☕️ _Coffee or tea?_ <br>
 Coffee
@@ -23,7 +23,7 @@ Coffee
 Dragon Age: Absolution
 
 - 🎵 _Listening to at the moment?_ <br>
-2010s indie pop || ABBA
+2010s indie pop || kent || Daft Punk
 
 - 🍍 _Does pineapple belong on pizza?_ <br>
 Yes
