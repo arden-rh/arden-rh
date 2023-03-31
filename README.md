@@ -11,19 +11,22 @@
 
 - 📫 How to reach me: [Twitter](https://twitter.com/ardentmind "Twitter profile @ardentmind")
 
-#### 5 quick qs: 
+#### 6 quick qs: 
 
 - 📚 _Latest book(s) read?_ <br>
-The Silmarillion && Dead Man's Folly // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X")
+The Silmarillion _&&_ Dead Man's Folly // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X")
 
-- ☕️ _Coffee or tea?_ <br>
-Coffee
+- 🎮 _Games played recently?_ <br>
+Zelda: Breath of the Wild _&&_ Civ VI _&&_ God of War
 
 - 📺 _What is the last TV show that you binge-watched?_ <br>
 Dragon Age: Absolution
 
 - 🎵 _Listening to at the moment?_ <br>
-2010s indie pop || kent || Daft Punk
+kent || Daft Punk
+
+- ☕️ _Coffee or tea?_ <br>
+Coffee
 
 - 🍍 _Does pineapple belong on pizza?_ <br>
 Yes
