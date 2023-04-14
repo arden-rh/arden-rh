@@ -14,16 +14,16 @@
 #### 6 quick qs: 
 
 - 📚 _Latest book(s) read?_ <br>
-The Silmarillion _&&_ Dead Man's Folly // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X")
+The Silmarillion _&&_ The Witness for the Prosecution and Other Stories // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X")
 
 - 🎮 _Games played recently?_ <br>
-Zelda: Breath of the Wild _&&_ Civ VI _&&_ God of War
+Assassin's Creed Valhalla && Divinity Original Sin 2
 
 - 📺 _What is the last TV show that you binge-watched?_ <br>
 Dragon Age: Absolution
 
 - 🎵 _Listening to at the moment?_ <br>
-kent || Daft Punk
+80's synth pop
 
 - ☕️ _Coffee or tea?_ <br>
 Coffee
