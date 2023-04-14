@@ -17,7 +17,7 @@
 The Silmarillion _&&_ The Witness for the Prosecution and Other Stories // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X")
 
 - 🎮 _Games played recently?_ <br>
-Assassin's Creed Valhalla && Divinity Original Sin 2
+Assassin's Creed Valhalla _&&_ Divinity Original Sin 2
 
 - 📺 _What is the last TV show that you binge-watched?_ <br>
 Dragon Age: Absolution
