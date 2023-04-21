@@ -3,8 +3,8 @@
 ### My name is Arden and I'm currently studying Front-end developement at Medieinstitutet, Malmö SWE. <br>
 
 - 💁🏼‍♂️ Pronouns: He/him 
-- 🌱 I’m currently learning: Testing with Cypress
-- 🔭 I’m currently working on: Updating my GitHub with existing projects
+- 🌱 I’m currently learning: UI/UX design
+- 🔭 I’m currently working on: Mockup of an MSB site
 - 🖥️ My latest project is: [Kill the Hoff](https://kill-the-hoff.netlify.app/ "Kill the Hoff website") / [GitHub repo](https://github.com/arden-rh/kill-the-hoff "Kill the Hoff GitHub repo")
 
 
