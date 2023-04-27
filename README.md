@@ -3,9 +3,9 @@
 ### My name is Arden and I'm currently studying Front-end developement at Medieinstitutet, Malmö SWE. <br>
 
 - 💁🏼‍♂️ Pronouns: He/him 
-- 🌱 I’m currently learning: UI/UX design
-- 🔭 I’m currently working on: Mockup of an MSB site
-- 🖥️ My latest project is: [Kill the Hoff](https://kill-the-hoff.netlify.app/ "Kill the Hoff website") / [GitHub repo](https://github.com/arden-rh/kill-the-hoff "Kill the Hoff GitHub repo")
+- 🌱 I’m currently learning: React
+- 🔭 I’m currently working on: -
+- 🖥️ My latest project is: [MSB - Orosanmälan för fallande träd](https://msb-orosanmalan-trad.netlify.app/ "MSB - Orosanmälan för fallande träd (Mockup website)") / [GitHub repo](https://github.com/arden-rh/msb "MSB GitHub repo")
 
 
 
@@ -14,10 +14,10 @@
 #### 6 quick qs: 
 
 - 📚 _Latest book(s) read?_ <br>
-The Silmarillion _&&_ The Witness for the Prosecution and Other Stories // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X")
+The Song of Achilles _&&_ The Regatta Mystery and Other Stories // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X")
 
 - 🎮 _Games played recently?_ <br>
-Assassin's Creed Valhalla _&&_ Divinity Original Sin 2
+Assassin's Creed Valhalla _&&_ Guild Wars 2
 
 - 📺 _What is the last TV show that you binge-watched?_ <br>
 Dragon Age: Absolution
