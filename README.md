@@ -4,7 +4,7 @@
 
 - 💁🏼‍♂️ Pronouns: He/him 
 - 🌱 I’m currently learning: React
-- 🔭 I’m currently working on: An UX group project
+- 🔭 I’m currently working on: A UX group project
 - 🖥️ My latest project is: [MSB - Orosanmälan för fallande träd](https://msb-orosanmalan-trad.netlify.app/ "MSB - Orosanmälan för fallande träd (Mockup website)") / [GitHub repo](https://github.com/arden-rh/msb "MSB GitHub repo")
 
 
