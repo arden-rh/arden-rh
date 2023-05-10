@@ -4,7 +4,7 @@
 
 - 💁🏼‍♂️ Pronouns: He/him 
 - 🌱 I’m currently learning: React
-- 🔭 I’m currently working on: React workshops
+- 🔭 I’m currently working on: An UX group project
 - 🖥️ My latest project is: [MSB - Orosanmälan för fallande träd](https://msb-orosanmalan-trad.netlify.app/ "MSB - Orosanmälan för fallande träd (Mockup website)") / [GitHub repo](https://github.com/arden-rh/msb "MSB GitHub repo")
 
 
@@ -14,7 +14,7 @@
 #### 6 quick qs: 
 
 - 📚 _Latest book(s) read?_ <br>
-The Song of Achilles _&&_ The Clocks // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X")
+2001: A Space Odyssey _&&_ The Clocks // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X")
 
 - 🎮 _Games played recently?_ <br>
 Assassin's Creed Valhalla _&&_ Guild Wars 2
