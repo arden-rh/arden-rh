@@ -17,7 +17,7 @@
 2001: A Space Odyssey _&&_ The Clocks // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X")
 
 - 🎮 _Games played recently?_ <br>
-Assassin's Creed Valhalla _&&_ Guild Wars 2
+The Legend of Zelda: Tears of the Kingdom _&&_ Assassin's Creed Valhalla
 
 - 📺 _What is the last TV show that you binge-watched?_ <br>
 Dragon Age: Absolution
