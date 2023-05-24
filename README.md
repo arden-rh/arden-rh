@@ -20,10 +20,10 @@
 The Legend of Zelda: Tears of the Kingdom _&&_ Assassin's Creed Valhalla
 
 - 📺 _What is the last TV show that you binge-watched?_ <br>
-Dragon Age: Absolution
+Only watching streamers atm (A_Seagull mainly)
 
 - 🎵 _Listening to at the moment?_ <br>
-80's synth pop
+60's pop || 80's synth pop
 
 - ☕️ _Coffee or tea?_ <br>
 Coffee
@@ -43,11 +43,11 @@ Yes
 
 <br>
 
-<!--
+
 ## 📊 GitHub Stats:
 [![Arden's GitHub stats](https://github-readme-stats.vercel.app/api?username=arden-rh&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)](https://github.com/arden-rh/github-readme-stats)  
 [![Arden's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arden-rh&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)](https://github.com/arden-rh/github-readme-stats) <br>
--->
+
 
 
 
