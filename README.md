@@ -4,8 +4,8 @@
 
 - 💁🏼‍♂️ Pronouns: He/him 
 - 🌱 I’m currently learning: React
-- 🔭 I’m currently working on: A UX group project
-- 🖥️ My latest project is: [MSB - Orosanmälan för fallande träd](https://msb-orosanmalan-trad.netlify.app/ "MSB - Orosanmälan för fallande träd (Mockup website)") / [GitHub repo](https://github.com/arden-rh/msb "MSB GitHub repo")
+- 🔭 I’m currently working on: React test projects
+- 🖥️ My latest project is: [The Star Wars Encyclopedia](https://sw-encyclopedia-arh.netlify.app/ "The Star Wars Ecyclopedia") [in a private (school) repo atm]
 
 
 
@@ -14,7 +14,7 @@
 #### 6 quick qs: 
 
 - 📚 _Latest book(s) read?_ <br>
-2001: A Space Odyssey _&&_ The Clocks // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X")
+2001: A Space Odyssey _&&_ Hallowe'en Party // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X")
 
 - 🎮 _Games played recently?_ <br>
 The Legend of Zelda: Tears of the Kingdom _&&_ Assassin's Creed Valhalla
@@ -23,7 +23,7 @@ The Legend of Zelda: Tears of the Kingdom _&&_ Assassin's Creed Valhalla
 Only watching streamers atm (A_Seagull mainly)
 
 - 🎵 _Listening to at the moment?_ <br>
-60's pop || 80's synth pop
+60's pop || Coldplay
 
 - ☕️ _Coffee or tea?_ <br>
 Coffee
@@ -44,7 +44,7 @@ Yes
 
 
 ## 📊 GitHub Stats:
-[![Arden's GitHub stats](https://github-readme-stats.vercel.app/api?username=arden-rh&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)](https://github.com/arden-rh/github-readme-stats)  
+<!--[![Arden's GitHub stats](https://github-readme-stats.vercel.app/api?username=arden-rh&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)](https://github.com/arden-rh/github-readme-stats)-->
 [![Arden's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arden-rh&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)](https://github.com/arden-rh/github-readme-stats) <br>
 
 
