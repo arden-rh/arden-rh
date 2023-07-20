@@ -3,7 +3,7 @@
 ### My name is Arden and I'm currently studying Front-end developement at Medieinstitutet, Malmö SWE. <br>
 
 - 💁🏼‍♂️ Pronouns: He/him 
-- 🌱 I’m currently learning: React
+- 🌱 I’m currently learning: React & Python
 - 🔭 I’m currently working on: React test projects
 - 🖥️ My latest project is: [The Star Wars Encyclopedia](https://sw-encyclopedia-arh.netlify.app/ "The Star Wars Ecyclopedia") [in a private (school) repo atm]
 
@@ -14,16 +14,16 @@
 #### 6 quick qs: 
 
 - 📚 _Latest book(s) read?_ <br>
-2001: A Space Odyssey _&&_ Hallowe'en Party // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X")
+The Master and Margarita _&&_ While the Light Lasts // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X")
 
 - 🎮 _Games played recently?_ <br>
-The Legend of Zelda: Tears of the Kingdom _&&_ Assassin's Creed Valhalla
+Divinity: Original Sin 2 _&&_ Assassin's Creed Valhalla
 
 - 📺 _What is the last TV show that you binge-watched?_ <br>
-Only watching streamers atm (A_Seagull mainly)
+Secret Invasion
 
 - 🎵 _Listening to at the moment?_ <br>
-60's pop || Coldplay
+00's indie pop || 60-70's rock
 
 - ☕️ _Coffee or tea?_ <br>
 Coffee
