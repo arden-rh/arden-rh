@@ -3,9 +3,9 @@
 ### My name is Arden and I'm currently studying Front-end developement at Medieinstitutet, Malmö SWE. <br>
 
 - 💁🏼‍♂️ Pronouns: He/him 
-- 🌱 I’m currently learning: React & Python
-- 🔭 I’m currently working on: React test projects
-- 🖥️ My latest project is: [The Star Wars Encyclopedia](https://sw-encyclopedia-arh.netlify.app/ "The Star Wars Ecyclopedia") [in a private (school) repo atm]
+- 🌱 I’m currently learning: React Query
+- 🔭 I’m currently working on: React school projects
+- 🖥️ My latest project is: [The Star Wars Encyclopedia](https://sw-encyclopedia-arh.netlify.app/ "The Star Wars Ecyclopedia") / [Git repo](https://github.com/arden-rh/sw-encyclopedia "The Star Wars Encyclopedia Repo")
 
 
 
