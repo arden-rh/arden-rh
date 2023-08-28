@@ -14,16 +14,16 @@
 #### 6 quick qs: 
 
 - 📚 _Latest book(s) read?_ <br>
-The Master and Margarita _&&_ While the Light Lasts // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X")
+Our Man in Havana _&&_ 2010: Odyssey Two // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X")
 
 - 🎮 _Games played recently?_ <br>
-Divinity: Original Sin 2 _&&_ Assassin's Creed Valhalla
+Hades _&&_ Assassin's Creed Valhalla
 
 - 📺 _What is the last TV show that you binge-watched?_ <br>
-Secret Invasion
+Ahsoka
 
 - 🎵 _Listening to at the moment?_ <br>
-00's indie pop || 60-70's rock
+10's indie || 70's rock anthems
 
 - ☕️ _Coffee or tea?_ <br>
 Coffee
