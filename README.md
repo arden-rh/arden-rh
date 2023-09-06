@@ -36,7 +36,7 @@ Yes
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,vite,prisma,git,vscode,postman&theme=dark)](https://skillicons.dev) <br>
 ## 🎨 Creative
 [![My Graphic Design Skills](https://skillicons.dev/icons?i=ai,ps,figma&theme=dark)](https://skillicons.dev) <br>
-## 💻 Learning
+## 💾 Learning
 [![My Beginner Skills](https://skillicons.dev/icons?i=firebase,py&theme=dark)](https://skillicons.dev) <br>
 
 
