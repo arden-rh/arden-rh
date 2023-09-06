@@ -33,7 +33,7 @@ Yes
 <br>
 
 ## 🧩 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,vite,prisma,git,vscode,postman&theme=dark)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,bootstrap,vite,prisma,git,vscode,postman&theme=dark)](https://skillicons.dev) <br>
 ## 🎨 Creative
 [![My Graphic Design Skills](https://skillicons.dev/icons?i=ai,ps,figma&theme=dark)](https://skillicons.dev) <br>
 ## 💾 Learning
