@@ -4,7 +4,7 @@
 
 - 💁🏼‍♂️ Pronouns: He/him 
 - 🌱 I’m currently learning: Firebase
-- 🔭 I’m currently working on: Personal projects
+- 🔭 I’m currently working on: Group project for school
 - 🖥️ My latest project is: [The Star Wars Encyclopedia](https://sw-encyclopedia-arh.netlify.app/ "The Star Wars Ecyclopedia") / [Git repo](https://github.com/arden-rh/sw-encyclopedia "The Star Wars Encyclopedia Repo")
 
 
@@ -14,7 +14,7 @@
 #### 6 quick qs: 
 
 - 📚 _Latest book(s) read?_ <br>
-Our Man in Havana _&&_ 2010: Odyssey Two // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X")
+The Secret History _&&_ 2010: Odyssey Two // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X")
 
 - 🎮 _Games played recently?_ <br>
 Baldur's Gate 3 _&&_ Hades
@@ -23,7 +23,7 @@ Baldur's Gate 3 _&&_ Hades
 Ahsoka
 
 - 🎵 _Listening to at the moment?_ <br>
-Neue Deutsche Welle || 70's rock anthems
+[My Spotify List: 23'](https://open.spotify.com/playlist/5dzVDfFQwGK8ENqEZe6v7E?si=0f70400640584544 "Spotify list called 23' created by Arden") || Travis
 
 - ☕️ _Coffee or tea?_ <br>
 Coffee
