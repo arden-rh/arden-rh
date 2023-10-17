@@ -1,35 +1,34 @@
 ## Hi there 👋
 
-### My name is Arden and I'm currently studying Front-end developement at Medieinstitutet, Malmö SWE. <br>
+### My name is Arden and I'm studying Front-end developement at Medieinstitutet, Malmö SWE. <br> I'm currently doing an internship at Coolstuff.
 
 - 💁🏼‍♂️ Pronouns: He/him 
-- 🌱 I’m currently learning: Firebase
-- 🔭 I’m currently working on: Group project for school
-- 🖥️ My latest project is: [The Star Wars Encyclopedia](https://sw-encyclopedia-arh.netlify.app/ "The Star Wars Ecyclopedia") / [Git repo](https://github.com/arden-rh/sw-encyclopedia "The Star Wars Encyclopedia Repo")
-
-
+- 🌱 I’m currently learning: Svelte
+- 🔭 I’m currently working on: ...my internship
+- 🖥️ My latest project is: [The Star Wars Encyclopedia](https://sw-encyclopedia-arh.netlify.app/ "The Star Wars Ecyclopedia")
 
 - 📫 How to reach me: [Twitter](https://twitter.com/ardentmind "Twitter profile @ardentmind")
 
 #### 6 quick qs: 
 
 - 📚 _Latest book(s) read?_ <br>
-The Secret History _&&_ 2010: Odyssey Two // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X")
+The Secret History _&&_ The Marvelous Light // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X")
 
 - 🎮 _Games played recently?_ <br>
-Baldur's Gate 3 _&&_ Hades
+Baldur's Gate 3 _&&_ Tiny Tina's Wonderlands
 
 - 📺 _What is the last TV show that you binge-watched?_ <br>
-Ahsoka
+No show but the Wes Anderson shorts at Netflix
 
 - 🎵 _Listening to at the moment?_ <br>
-[My Spotify List: 23'](https://open.spotify.com/playlist/5dzVDfFQwGK8ENqEZe6v7E?si=0f70400640584544 "Spotify list called 23' created by Arden") || Travis
+Penguin Prison || Travis
 
 - ☕️ _Coffee or tea?_ <br>
 Coffee
 
 - 🍍 _Does pineapple belong on pizza?_ <br>
 Yes
+
 <br>
 
 ## 🧩 Tech Stack
@@ -37,8 +36,7 @@ Yes
 ## 🎨 Creative
 [![My Graphic Design Skills](https://skillicons.dev/icons?i=ai,ps,figma&theme=dark)](https://skillicons.dev) <br>
 ## 💾 Learning
-[![My Beginner Skills](https://skillicons.dev/icons?i=firebase,py&theme=dark)](https://skillicons.dev) <br>
-
+[![My Beginner Skills](https://skillicons.dev/icons?i=firebase,svelte&theme=dark)](https://skillicons.dev) <br>
 
 
 <br>
