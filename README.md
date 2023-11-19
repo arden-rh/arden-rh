@@ -12,10 +12,10 @@
 #### 6 quick qs: 
 
 - 📚 _Latest book(s) read?_ <br>
-The Secret History _&&_ The Marvelous Light // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X")
+The Colour out of Space _&&_ The Marvelous Light // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X")
 
 - 🎮 _Games played recently?_ <br>
-Baldur's Gate 3 _&&_ Tiny Tina's Wonderlands
+Baldur's Gate 3 _&&_ Wizard with a Gun
 
 - 📺 _What is the last TV show that you binge-watched?_ <br>
 No show but the Wes Anderson shorts at Netflix
@@ -25,9 +25,6 @@ Penguin Prison || Travis
 
 - ☕️ _Coffee or tea?_ <br>
 Coffee
-
-- 🍍 _Does pineapple belong on pizza?_ <br>
-Yes
 
 <br>
 
