@@ -3,28 +3,28 @@
 ### My name is Arden and I'm studying Front-end developement at Medieinstitutet, Malmö SWE. <br> I'm currently doing an internship at Coolstuff.
 
 - 💁🏼‍♂️ Pronouns: He/him 
-- 🌱 I’m currently learning: Svelte
+- 🌱 I’m currently learning: SvelteKit
 - 🔭 I’m currently working on: ...my internship
 - 🖥️ My latest project is: [The Star Wars Encyclopedia](https://sw-encyclopedia-arh.netlify.app/ "The Star Wars Ecyclopedia")
 
 - 📫 How to reach me: [Twitter](https://twitter.com/ardentmind "Twitter profile @ardentmind")
 
-#### 6 quick qs: 
+#### 5 quick qs: 
 
 - 📚 _Latest book(s) read?_ <br>
-The Colour out of Space _&&_ The Marvelous Light // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X")
+The Colour Out of Space _&&_ The Marvelous Light // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X")
 
 - 🎮 _Games played recently?_ <br>
 Baldur's Gate 3 _&&_ Wizard with a Gun
 
-- 📺 _What is the last TV show that you binge-watched?_ <br>
+- 📺 _What is the last TV show that you watched?_ <br>
 No show but the Wes Anderson shorts at Netflix
 
 - 🎵 _Listening to at the moment?_ <br>
-Penguin Prison || Travis
+This Perfect Day || Everything Everything
 
-- ☕️ _Coffee or tea?_ <br>
-Coffee
+- 🎲 _Top 3 D&D classes to play?_ <br>
+Rogue, Sorcerer & Cleric
 
 <br>
 
