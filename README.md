@@ -19,7 +19,7 @@ The Call of Cthulhu _&&_ The Secret of Chimneys // [Goodreads profile](https://w
 Baldur's Gate 3 _&&_ Risk of Rain 2
 
 - 📺 _What is the last TV show that you watched?_ <br>
--
+x
 
 - 🎵 _Listening to at the moment?_ <br>
 This Perfect Day || The Killers
