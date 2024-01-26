@@ -13,16 +13,16 @@
 #### 5 quick qs: 
 
 - 📚 _Latest book(s) read?_ <br>
-The Call of Cthulhu _&&_ The Secret of Chimneys // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X")
+The Whisperer in Darkness _&&_ The Secret of Chimneys // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X")
 
 - 🎮 _Games played recently?_ <br>
 Baldur's Gate 3 _&&_ Risk of Rain 2
 
 - 📺 _What is the last TV show that you watched?_ <br>
-x
+Why didn't they ask Evans?
 
 - 🎵 _Listening to at the moment?_ <br>
-This Perfect Day || The Killers
+90s European Dance Hits
 
 - 🎲 _Top 3 D&D classes to play?_ <br>
 Rogue, Sorcerer & Cleric
