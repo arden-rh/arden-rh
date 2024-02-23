@@ -1,11 +1,11 @@
 ## Hi there 👋
 
 ### My name is Arden and I'm studying Front-end developement at Medieinstitutet, Malmö SWE. <br>
-<!--I'm currently doing an internship at Coolstuff.-->
+I'm currently doing an internship at Coolstuff.
 
 - 💁🏼‍♂️ Pronouns: He/him 
-- 🌱 I’m currently learning: SvelteKit
-- 🔭 I’m currently working on: My degree project
+- 🌱 I’m currently learning: GraphQL, DatoCMS
+- 🔭 I’m currently working on: An Easter themed game @ my internship 
 - 🖥️ My latest project is: [The Movie Database](https://tmdb-arh.netlify.app/ "The Movie Database")
 
 - 📫 How to reach me: [Twitter](https://twitter.com/ardentmind "Twitter profile @ardentmind")
@@ -13,7 +13,7 @@
 #### 5 quick qs: 
 
 - 📚 _Latest book(s) read?_ <br>
-The Whisperer in Darkness _&&_ The Secret of Chimneys // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X")
+The Whisperer in Darkness _&&_ The Seven Dials Mystery // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X")
 
 - 🎮 _Games played recently?_ <br>
 Baldur's Gate 3 _&&_ Risk of Rain 2
@@ -30,11 +30,11 @@ Rogue, Sorcerer & Cleric
 <br>
 
 ## 🧩 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,bootstrap,vite,prisma,git,vscode,postman,netlify&theme=dark)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,svelte,bootstrap,firebase,vite,prisma,git,vscode,postman,netlify&theme=dark)](https://skillicons.dev) <br>
 ## 🎨 Creative
 [![My Graphic Design Skills](https://skillicons.dev/icons?i=ai,ps,figma&theme=dark)](https://skillicons.dev) <br>
 ## 💾 Learning
-[![My Beginner Skills](https://skillicons.dev/icons?i=firebase,svelte&theme=dark)](https://skillicons.dev) <br>
+[![My Beginner Skills](https://skillicons.dev/icons?i=graphql&theme=dark)](https://skillicons.dev) <br>
 
 
 <br>
