@@ -4,16 +4,16 @@
 I'm currently doing an internship at Coolstuff.
 
 - 💁🏼‍♂️ Pronouns: He/him 
-- 🌱 I’m currently learning: GraphQL, DatoCMS
-- 🔭 I’m currently working on: An Easter themed game @ my internship 
-- 🖥️ My latest project is: [The Movie Database](https://tmdb-arh.netlify.app/ "The Movie Database")
+- 🌱 I’m currently learning: Supabase
+- 🔭 I’m currently working on: A chatbot project (OpenAI Assistants API)
+- 🖥️ My latest project is: The Easter Egg Hunt, currently live on [Coolstuff](https://www.coolstuff.se/ "Coolstuff")
 
 - 📫 How to reach me: [Twitter](https://twitter.com/ardentmind "Twitter profile @ardentmind")
 
 #### 5 quick qs: 
 
 - 📚 _Latest book(s) read?_ <br>
-The Whisperer in Darkness _&&_ The Seven Dials Mystery // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X")
+The Haunter of the Dark _&&_ Mördaren ljuger inte ensam // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X")
 
 - 🎮 _Games played recently?_ <br>
 Baldur's Gate 3 _&&_ Risk of Rain 2
@@ -22,7 +22,7 @@ Baldur's Gate 3 _&&_ Risk of Rain 2
 Why didn't they ask Evans?
 
 - 🎵 _Listening to at the moment?_ <br>
-90s European Dance Hits
+Everything Eveything _&&_ Future Islands _&&_ Nothing But Thieves
 
 - 🎲 _Top 3 D&D classes to play?_ <br>
 Rogue, Sorcerer & Cleric
@@ -42,7 +42,7 @@ Rogue, Sorcerer & Cleric
 
 ## 📊 GitHub Stats:
 <!--[![Arden's GitHub stats](https://github-readme-stats.vercel.app/api?username=arden-rh&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)](https://github.com/arden-rh/github-readme-stats)-->
-[![Arden's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arden-rh&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)](https://github.com/arden-rh/github-readme-stats) <br>
+[![Arden's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arden-rh&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false&layout=compact)](https://github.com/arden-rh/github-readme-stats) <br>
 [![Arden's Github streak](https://github-readme-streak-stats.herokuapp.com/?user=arden-rh&theme=blue-green)](https://github.com/arden-rh/github-readme-streak-stats)
 
 
@@ -51,8 +51,6 @@ Rogue, Sorcerer & Cleric
 <!--
 **arden-rh/arden-rh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arden-rh&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-[![Arden's Github streak](https://github-readme-streak-stats.herokuapp.com/?user=arden-rh&theme=blue-green)](https://github.com/arden-rh/github-readme-streak-stats)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
