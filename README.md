@@ -6,17 +6,17 @@ I'm currently doing an internship at Coolstuff.
 - 💁🏼‍♂️ Pronouns: He/him 
 - 🌱 I’m currently learning: Supabase
 - 🔭 I’m currently working on: A chatbot project (OpenAI Assistants API)
-- 🖥️ My latest project is: The Easter Egg Hunt, currently live on [Coolstuff](https://www.coolstuff.se/ "Coolstuff")
+- 🖥️ My latest project is: Internal projects @ Coolstuff
 
 - 📫 How to reach me: [Twitter](https://twitter.com/ardentmind "Twitter profile @ardentmind")
 
 #### 5 quick qs: 
 
 - 📚 _Latest book(s) read?_ <br>
-The Haunter of the Dark _&&_ Mördaren ljuger inte ensam // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X")
+2061: Odyssey Three (Space Odyssey, #3) _&&_ A Restless Truth // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X")
 
 - 🎮 _Games played recently?_ <br>
-Baldur's Gate 3 _&&_ Risk of Rain 2
+Assassin's Creed Valhalla _&&_ Risk of Rain 2
 
 - 📺 _What is the last TV show that you watched?_ <br>
 Why didn't they ask Evans?
