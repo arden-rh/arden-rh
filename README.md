@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### My name is Arden and I'm a Front End Developer based in Malmö, Sweden. <br>
+### My name is Arden and I'm a Front-End Developer based in Malmö, Sweden. <br>
 I'm currently looking for a new position 👀
 
 - 💁🏼‍♂️ Pronouns: He/him 
