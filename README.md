@@ -5,7 +5,7 @@ I'm currently looking for a new position 👀
 
 - 💁🏼‍♂️ Pronouns: He/him 
 - 🌱 I’m currently learning: -
-- 🔭 I’m currently working on: Updatedd version of my portfolio
+- 🔭 I’m currently working on: Updated version of my portfolio
 - 🖥️ My latest project is: -
 
 - 📫 How to reach me: [Twitter](https://twitter.com/ardentmind "Twitter profile @ardentmind") or you can find my email on my website [arden.se](https://www.arden.se/ "Arden R.H. Portfolio").
