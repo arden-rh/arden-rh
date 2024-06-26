@@ -1,25 +1,25 @@
 ## Hi there 👋
 
-### My name is Arden and I'm studying Front-end developement at Medieinstitutet, Malmö SWE. <br>
-I'm currently doing an internship at Coolstuff.
+### My name is Arden and I'm a Front End Developer based in Malmö, Sweden. <br>
+I'm currently looking for a new position 👀
 
 - 💁🏼‍♂️ Pronouns: He/him 
-- 🌱 I’m currently learning: Supabase
-- 🔭 I’m currently working on: A chatbot project (OpenAI Assistants API)
-- 🖥️ My latest project is: Internal projects @ Coolstuff
+- 🌱 I’m currently learning: -
+- 🔭 I’m currently working on: Updatedd version of my portfolio
+- 🖥️ My latest project is: -
 
-- 📫 How to reach me: [Twitter](https://twitter.com/ardentmind "Twitter profile @ardentmind")
+- 📫 How to reach me: [Twitter](https://twitter.com/ardentmind "Twitter profile @ardentmind") or you can find my email on my website [arden.se](https://www.arden.se/ "Arden R.H. Portfolio").
 
 #### 5 quick qs: 
 
 - 📚 _Latest book(s) read?_ <br>
-2061: Odyssey Three (Space Odyssey, #3) _&&_ A Restless Truth // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X")
+The Shadow Out of Time _&&_ Whose Body? // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X")
 
 - 🎮 _Games played recently?_ <br>
-Assassin's Creed Valhalla _&&_ Risk of Rain 2
+Assassin's Creed Valhalla _&&_ Borderlands 2
 
 - 📺 _What is the last TV show that you watched?_ <br>
-Why didn't they ask Evans?
+Vera
 
 - 🎵 _Listening to at the moment?_ <br>
 Everything Eveything _&&_ Future Islands _&&_ Nothing But Thieves
