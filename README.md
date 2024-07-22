@@ -13,16 +13,16 @@ I'm currently looking for a new position 👀
 #### 5 quick qs: 
 
 - 📚 _Latest book(s) read?_ <br>
-The Shadow Out of Time _&&_ Whose Body? // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X")
+The Wicked + The Divine _&&_ Dragon Age: The Missing // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X")
 
 - 🎮 _Games played recently?_ <br>
-Assassin's Creed Valhalla _&&_ Borderlands 2
+Final Fantasy XIV _&&_ Hades 2
 
 - 📺 _What is the last TV show that you watched?_ <br>
-Vera
+Blood of Zeus
 
 - 🎵 _Listening to at the moment?_ <br>
-Everything Eveything _&&_ Future Islands _&&_ Nothing But Thieves
+Talking Heads _&&_ The Alan Parsons Project
 
 - 🎲 _Top 3 D&D classes to play?_ <br>
 Rogue, Sorcerer & Cleric
