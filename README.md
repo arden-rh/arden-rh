@@ -13,13 +13,13 @@ I'm currently looking for a new position 👀
 #### 5 quick qs: 
 
 - 📚 _Latest book(s) read?_ <br>
-The Wicked + The Divine _&&_ Dragon Age: The Missing // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X")
+Star Wars graphic novels _&&_ Heroes: Mortals and Monsters, Quests and Adventures // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X")
 
 - 🎮 _Games played recently?_ <br>
-Final Fantasy XIV _&&_ Hades 2
+Final Fantasy XIV _&&_ The Sims 4
 
 - 📺 _What is the last TV show that you watched?_ <br>
-Blood of Zeus
+KAOS
 
 - 🎵 _Listening to at the moment?_ <br>
 Talking Heads _&&_ The Alan Parsons Project
