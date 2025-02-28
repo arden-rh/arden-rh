@@ -6,26 +6,26 @@ I'm currently looking for a new position 👀
 - 💁🏼‍♂️ Pronouns: He/him 
 - 🌱 I’m currently learning: -
 - 🔭 I’m currently working on: Updated version of my portfolio
-- 🖥️ My latest project is: -
+- 🖥️ My latest project is: Arden Reads (soon public)
 
-- 📫 How to reach me: [Twitter](https://twitter.com/ardentmind "Twitter profile @ardentmind") or you can find my email on my website [arden.se](https://www.arden.se/ "Arden R.H. Portfolio").
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/arden-haldorson/ "LinkedIn")
 
 #### 5 quick qs: 
 
 - 📚 _Latest book(s) read?_ <br>
-Star Wars graphic novels _&&_ Heroes: Mortals and Monsters, Quests and Adventures // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X")
+Star Wars graphic novels _&&_ Single & Single // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X")
 
 - 🎮 _Games played recently?_ <br>
-Final Fantasy XIV _&&_ The Sims 4
+Marvel Rivals _&&_ Hades II
 
 - 📺 _What is the last TV show that you watched?_ <br>
 KAOS
 
 - 🎵 _Listening to at the moment?_ <br>
-Talking Heads _&&_ The Alan Parsons Project
+Everything Everything _&&_ White Lies
 
 - 🎲 _Top 3 D&D classes to play?_ <br>
-Rogue, Sorcerer & Cleric
+Rogue, Sorcerer & Wizard
 
 <br>
 
