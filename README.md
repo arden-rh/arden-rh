@@ -6,7 +6,7 @@ I'm currently looking for a new position 👀
 - 💁🏼‍♂️ Pronouns: He/him 
 - 🌱 I’m currently learning: -
 - 🔭 I’m currently working on: Updated version of my portfolio
-- 🖥️ My latest project is: Arden Reads (soon public)
+- 🖥️ My latest project is: [Arden Reads](https://arden-reads.com "Arden Reads")
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/arden-haldorson/ "LinkedIn")
 
@@ -19,10 +19,10 @@ Star Wars graphic novels _&&_ Single & Single // [Goodreads profile](https://www
 Marvel Rivals _&&_ Hades II
 
 - 📺 _What is the last TV show that you watched?_ <br>
-KAOS
+Andor
 
 - 🎵 _Listening to at the moment?_ <br>
-Everything Everything _&&_ White Lies
+Hubert Kah _&&_ Kano
 
 - 🎲 _Top 3 D&D classes to play?_ <br>
 Rogue, Sorcerer & Wizard
