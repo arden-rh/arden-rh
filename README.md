@@ -13,7 +13,7 @@ I'm currently looking for a new position 👀
 #### 5 quick qs: 
 
 - 📚 _Latest book(s) read?_ <br>
-Star Wars graphic novels _&&_ Single & Single // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X")
+Star Wars graphic novels _&&_ Single & Single // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X") // [Arden Reads](https://arden-reads.com "Arden Reads")
 
 - 🎮 _Games played recently?_ <br>
 Marvel Rivals _&&_ Hades II
@@ -30,7 +30,7 @@ Rogue, Sorcerer & Wizard
 <br>
 
 ## 🧩 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,svelte,bootstrap,firebase,vite,prisma,git,vscode,postman,netlify&theme=dark)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,svelte,react,tailwind,bootstrap,firebase,vite,prisma,git,vscode,postman,netlify,vercel&theme=dark)](https://skillicons.dev) <br>
 ## 🎨 Creative
 [![My Graphic Design Skills](https://skillicons.dev/icons?i=ai,ps,figma&theme=dark)](https://skillicons.dev) <br>
 ## 💾 Learning
