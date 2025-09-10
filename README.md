@@ -4,7 +4,7 @@
 I'm currently looking for a new position 👀
 
 - 💁🏼‍♂️ Pronouns: He/him 
-- 🌱 I’m currently learning: -
+- 🌱 I’m currently learning: ✨
 - 🔭 I’m currently working on: Updated version of my portfolio
 - 🖥️ My latest project is: [Arden Reads](https://arden-reads.com "Arden Reads")
 
@@ -13,16 +13,16 @@ I'm currently looking for a new position 👀
 #### 5 quick qs: 
 
 - 📚 _Latest book(s) read?_ <br>
-Star Wars graphic novels _&&_ Single & Single // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X") // [Arden Reads](https://arden-reads.com "Arden Reads")
+Star Wars graphic novels // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X") // [Arden Reads](https://arden-reads.com "Arden Reads")
 
 - 🎮 _Games played recently?_ <br>
-Marvel Rivals _&&_ Hades II
+Mass Effect Legendary Edition _&&_ Diablo IV
 
 - 📺 _What is the last TV show that you watched?_ <br>
 Andor
 
 - 🎵 _Listening to at the moment?_ <br>
-Hubert Kah _&&_ Kano
+Genesis _&&_ The Alan Parsons Project
 
 - 🎲 _Top 3 D&D classes to play?_ <br>
 Rogue, Sorcerer & Wizard
