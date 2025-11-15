@@ -4,8 +4,8 @@
 I'm currently looking for a new position 👀
 
 - 💁🏼‍♂️ Pronouns: He/him 
-- 🌱 I’m currently learning: ✨
-- 🔭 I’m currently working on: Updated version of my portfolio
+- 🌱 I’m currently learning: C#
+- 🔭 I’m currently working on: Expanding my knowledge by further education 👨‍🎓
 - 🖥️ My latest project is: [Arden Reads](https://arden-reads.com "Arden Reads")
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/arden-haldorson/ "LinkedIn")
@@ -16,16 +16,16 @@ I'm currently looking for a new position 👀
 Star Wars graphic novels // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X") // [Arden Reads](https://arden-reads.com "Arden Reads")
 
 - 🎮 _Games played recently?_ <br>
-Mass Effect Legendary Edition _&&_ Diablo IV
+Diablo IV && Animal Crossing: New Horizons
 
 - 📺 _What is the last TV show that you watched?_ <br>
-Andor
+Blood of Zeus S3
 
 - 🎵 _Listening to at the moment?_ <br>
-Genesis _&&_ The Alan Parsons Project
+White Lies && Pet Shop Boys
 
 - 🎲 _Top 3 D&D classes to play?_ <br>
-Rogue, Sorcerer & Wizard
+Rogue || Sorcerer || Wizard
 
 <br>
 
@@ -34,7 +34,7 @@ Rogue, Sorcerer & Wizard
 ## 🎨 Creative
 [![My Graphic Design Skills](https://skillicons.dev/icons?i=ai,ps,figma&theme=dark)](https://skillicons.dev) <br>
 ## 💾 Learning
-[![My Beginner Skills](https://skillicons.dev/icons?i=graphql&theme=dark)](https://skillicons.dev) <br>
+[![My Beginner Skills](https://skillicons.dev/icons?i=c#&theme=dark)](https://skillicons.dev) <br>
 
 
 <br>
