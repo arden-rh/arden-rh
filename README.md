@@ -34,7 +34,7 @@ Rogue || Sorcerer || Wizard
 ## 🎨 Creative
 [![My Graphic Design Skills](https://skillicons.dev/icons?i=ai,ps,figma&theme=dark)](https://skillicons.dev) <br>
 ## 💾 Learning
-[![My Beginner Skills](https://skillicons.dev/icons?i=c#&theme=dark)](https://skillicons.dev) <br>
+[![My Beginner Skills](https://skillicons.dev/icons?i=cs&theme=dark)](https://skillicons.dev) <br>
 
 
 <br>
