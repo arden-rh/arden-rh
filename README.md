@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 ### My name is Arden and I'm a Front-End Developer based in Malmö, Sweden. <br>
-I'm currently looking for a new position 👀
 
 - 💁🏼‍♂️ Pronouns: He/him 
 - 🌱 I’m currently learning: C#
@@ -13,7 +12,7 @@ I'm currently looking for a new position 👀
 #### 5 quick qs: 
 
 - 📚 _Latest book(s) read?_ <br>
-Star Wars graphic novels // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X") // [Arden Reads](https://arden-reads.com "Arden Reads")
+Die, Vol. 2: Split the Party // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X") // [Arden Reads](https://arden-reads.com "Arden Reads")
 
 - 🎮 _Games played recently?_ <br>
 Diablo IV && Animal Crossing: New Horizons
