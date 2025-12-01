@@ -15,7 +15,7 @@
 Die, Vol. 2: Split the Party // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X") // [Arden Reads](https://arden-reads.com "Arden Reads")
 
 - 🎮 _Games played recently?_ <br>
-Diablo IV && Animal Crossing: New Horizons
+God of War: Ragnarök && Animal Crossing: New Horizons
 
 - 📺 _What is the last TV show that you watched?_ <br>
 Blood of Zeus S3
