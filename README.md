@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### My name is Arden and I'm a Front-End Developer based in Malmö, Sweden. <br>
+### My name is Arden and I'm a Fullstack Developer based in Malmö, Sweden. <br>
 
 - 💁🏼‍♂️ Pronouns: He/him 
 - 🌱 I’m currently learning: C#
@@ -12,16 +12,16 @@
 #### 5 quick qs: 
 
 - 📚 _Latest book(s) read?_ <br>
-Die, Vol. 2: Split the Party // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X") // [Arden Reads](https://arden-reads.com "Arden Reads")
+Saga, Volume 12 // [Goodreads profile](https://www.goodreads.com/user/show/4239103-agent-x "Goodreads profile for Agent X") // [Arden Reads](https://arden-reads.com "Arden Reads")
 
 - 🎮 _Games played recently?_ <br>
-God of War: Ragnarök && Animal Crossing: New Horizons
+Divinity: Original Sin 2 && Animal Crossing: New Horizons
 
 - 📺 _What is the last TV show that you watched?_ <br>
 Blood of Zeus S3
 
 - 🎵 _Listening to at the moment?_ <br>
-White Lies && Pet Shop Boys
+Everything Everything && Travis
 
 - 🎲 _Top 3 D&D classes to play?_ <br>
 Rogue || Sorcerer || Wizard
@@ -42,7 +42,7 @@ Rogue || Sorcerer || Wizard
 ## 📊 GitHub Stats:
 <!--[![Arden's GitHub stats](https://github-readme-stats.vercel.app/api?username=arden-rh&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)](https://github.com/arden-rh/github-readme-stats)-->
 [![Arden's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arden-rh&theme=blue-green&hide_border=true&include_all_commits=true&count_private=false&layout=compact)](https://github.com/arden-rh/github-readme-stats) <br>
-[![Arden's Github streak](https://github-readme-streak-stats.herokuapp.com/?user=arden-rh&theme=blue-green)](https://github.com/arden-rh/github-readme-streak-stats)
+<!--[![Arden's Github streak](https://github-readme-streak-stats.herokuapp.com/?user=arden-rh&theme=blue-green)](https://github.com/arden-rh/github-readme-streak-stats)-->
 
 
 
